@@ -5,7 +5,6 @@ title: "Software Deleter"
 theme: jekyll-theme-cayman
 permalink: /Software-Deleter/
 ---
-
 # Software Deleter
 ### Information
 ```
