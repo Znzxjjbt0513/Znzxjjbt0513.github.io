@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Jason's Homepage
 logo: /_image/logo.png
 description: Provide My Software Updates!
-show_downloads: true
+show_downloads: false
 markdown: kramdown
