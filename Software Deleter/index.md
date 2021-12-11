@@ -16,6 +16,8 @@ Support Light Mode And Dark Mode! From macOS Mojave(10.14) - macOS Monterey(12).
 <img width="366" alt="LMM" src="https://user-images.githubusercontent.com/89672840/144734608-d954db4e-35f6-42af-a880-06c33c784808.png">
 
 <img width="412" alt="LMC" src="https://user-images.githubusercontent.com/89672840/144734611-04f4a986-05ec-4b5c-a8af-3a34207166b0.png">
+
+<img width="712" alt="LIP" src="https://user-images.githubusercontent.com/89672840/145685825-619521f9-e92d-4b0d-8065-e0ac6b76aedb.png">
 ### Dark Mode
 <img width="562" alt="DMD" src="https://user-images.githubusercontent.com/89672840/144734616-efa87d7a-5702-4cbe-adfa-38fc8dc7a6f4.png">
 
@@ -26,3 +28,5 @@ Support Light Mode And Dark Mode! From macOS Mojave(10.14) - macOS Monterey(12).
 <img width="366" alt="DMM" src="https://user-images.githubusercontent.com/89672840/144734627-c18ec8e3-0604-44e0-804f-f3fbc787d21e.png">
 
 <img width="412" alt="DMC" src="https://user-images.githubusercontent.com/89672840/144734629-2a75b336-7e48-4d93-afd0-6b3eb6d0a9cb.png">
+
+<img width="712" alt="DIP" src="https://user-images.githubusercontent.com/89672840/145685833-451e908c-f851-41c8-b4f4-fc92fa9a3a86.png">
