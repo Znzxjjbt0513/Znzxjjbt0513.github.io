@@ -5,7 +5,7 @@ Delete Any Software on macOS High Sierra(10.13) - macOS Monterey(12).
 
 Support Light Mode And Dark Mode! From macOS Mojave(10.14) - macOS Monterey(12).
 ```
-### [Download](https://home.mycloud.com/action/share/2e8c6a1b-19eb-4721-9cfc-40ad46684b17)
+#### [Download](https://home.mycloud.com/action/share/2e8c6a1b-19eb-4721-9cfc-40ad46684b17)
 
 
 ## Screenshots
