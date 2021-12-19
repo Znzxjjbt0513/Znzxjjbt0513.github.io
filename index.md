@@ -1,2 +1,2 @@
-# Published Software
-### [_Software Deleter_](https://Znzxjjbt0513.github.io/Software%20Deleter)
+# **Published Software**
+### [**_Software Deleter_**](https://Znzxjjbt0513.github.io/Software%20Deleter)
