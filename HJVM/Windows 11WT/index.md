@@ -6,7 +6,7 @@
 系統：Windows 11 Pro   
 版本：V4.513.3   
 組建：22000.469   
-大小：   
+大小：10 GB   
 下載：[MyCloud Home](https://home.mycloud.com/action/share/2b79217e-de21-4fc2-98d0-2163050e9026)   
 已知問題：   
 - 無
