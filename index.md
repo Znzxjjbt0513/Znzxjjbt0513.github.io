@@ -1,3 +1,5 @@
+## **Published Mumble Plugins**
+### [**_Mumble Plugins And Instructions_**](https://Znzxjjbt0513.github.io/Mumble%20Plugins)
 ## **Published HJVM Packager**
 ### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011)
 ### [**_Windows 11 - WeChat_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011WX)
