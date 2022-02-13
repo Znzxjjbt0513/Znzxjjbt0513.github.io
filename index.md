@@ -4,14 +4,16 @@
 ### [**_Install Packager_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.0/Install%20Packager/)
 ### [**_Install Packager - WX_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.0/Install%20Packager%20-%20WX/)
 ### [**_Install Packager - WT_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.0/Install%20Packager%20-%20WT/)   
+***(NOTICE:Install Packager = NON WECHAT VERSION Install Packager   
+Install Packager - WX = NEWEST WECHAT VERSION Install Packager   
+Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)**
 ## **Published HJVM Packager**
 ### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011)
-### [**_Windows 11 - WeChat_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011WX)
-### [**_Windows 11 - WeTool_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011WT)   
+### [**_Windows 11 - WX_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011WX)
+### [**_Windows 11 - WT_**](https://Znzxjjbt0513.github.io/HJVM/Windows%2011WT)   
 ***(NOTICE:Windows 11 = NON WECHAT VERSION HJVM   
-Windows 11 - WeChat = NEWEST WECHAT VERSION HJVM   
-Windows 11 - WeTool = WETOOL + WECHAT VERSION HJVM)**
-
+Windows 11 - WX = NEWEST WECHAT VERSION HJVM   
+Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)**   
 ## **Published Software**
 ### [**_Software Deleter_**](https://Znzxjjbt0513.github.io/Software%20Deleter)
 ### [**_Computer Cooler_**](https://Znzxjjbt0513.github.io/Computer%20Cooler)
