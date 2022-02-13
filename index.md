@@ -1,5 +1,4 @@
 <div align="center">
-
 # Welcome To Jason's Homepages
 </div>
 
