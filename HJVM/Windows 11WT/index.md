@@ -10,4 +10,4 @@ Download:[MyCloud Home](https://home.mycloud.com/action/share/edc25853-df35-48b9
 # Install Packager
 **Published Date:2022/02/08   
 Version Code:V1.0   
-Download:[MyCloud Home](https://home.mycloud.com/action/share/edc25853-df35-48b9-9462-6a59c8527a75)**
+Download:[MyCloud Home](https://home.mycloud.com/action/share/75e9a257-4995-4016-ac10-11d49f83d1fe)**
