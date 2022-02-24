@@ -1,5 +1,9 @@
 ### *VNC Viewer*
-#### [*_VNC Viewer For Windows_*](https://Znzxjjbt0513.github.io/VNC/VNC Viewer/Windows/)
+#### [*_VNC Viewer For Windows_*](https://Znzxjjbt0513.github.io/VNC/VNC520Viewer/Windows/)
+#### [*_VNC Viewer For Macs_*](https://Znzxjjbt0513.github.io/VNC/VNC%20Viewer/Macs/)
+### *VNC Server*
+#### [*_VNC Server For Windows_*](https://Znzxjjbt0513.github.io/VNC/VNC%20Server/Windows/)
+#### [*_VNC Server For Macs_*](https://Znzxjjbt0513.github.io/VNC/VNC%20Server/Macs/)
 ### *Mumble*
 #### [*_Mumble For Windows_*](https://Znzxjjbt0513.github.io/Mumble/Windows/)
 #### [*_Mumble For Macs_*](https://Znzxjjbt0513.github.io/Mumble/Macs/)
