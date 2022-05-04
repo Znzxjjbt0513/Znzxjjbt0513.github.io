@@ -10,8 +10,8 @@
 #### [**_Sonant For iPhone_**](https://Znzxjjbt0513.github.io/Mumble/iPhone/)   
 ### ***Published Install Packager***
 #### [**_Install Packager_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.2/Install%20Packager/)
-#### [**_Install Packager - WX_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.2/Install%20Packager%20-%20WX/)
-#### [**_Install Packager - WT_**](https://Znzxjjbt0513.github.io/Install%20Packager/1.2/Install%20Packager%20-%20WT/)   
+#### [**_Install Packager - WX_**](https://znzxjjbt0513.github.io/Install%20Packager/1.2/Install%20Packager%20-%20WeChat/)
+#### [**_Install Packager - WT_**](https://znzxjjbt0513.github.io/Install%20Packager/1.2/Install%20Packager%20-%20WeTool/)   
 ***(NOTICE:Install Packager = NON WECHAT VERSION Install Packager   
 Install Packager - WX = NEWEST WECHAT VERSION Install Packager   
 Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)**
