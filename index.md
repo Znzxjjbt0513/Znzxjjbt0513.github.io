@@ -24,6 +24,5 @@ Windows 11 - WX = NEWEST WECHAT VERSION HJVM
 Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)**   
 ### ***Published Software***
 #### [**_Software Deleter_**](https://Znzxjjbt0513.github.io/Software%20Deleter)
-#### [**_Computer Cooler_**](https://Znzxjjbt0513.github.io/Computer%20Cooler)
 ### ***Jason's GitHub Stats***
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=znzxjjbt0513&show_icons=true&theme=default)
