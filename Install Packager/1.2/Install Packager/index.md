@@ -1,4 +1,4 @@
 # Install Packager
-**Published Date:2022/05/03   
+**Published Date:2022/07/10   
 Version Code:V1.2   
-Download:[MyCloud Home](https://home.mycloud.com/action/share/93d931b1-74eb-4922-b0ab-5b1112cdcac1)**
+Download:[My Cloud Home](https://home.mycloud.com/action/share/1c5d4eeb-7a59-45ce-b0fe-831f378cc8d6)**
