@@ -1,4 +1,4 @@
 # Install Packager - WeChat
-**Published Date:2022/05/03   
+**Published Date:2022/07/10   
 Version Code:V1.2   
-Download:[MyCloud Home](https://home.mycloud.com/action/share/f57a43e4-5fc0-4da1-89d6-540f7ff9060d)**
+Download:[My Cloud Home](https://home.mycloud.com/action/share/950649c6-7f96-44fb-8db3-ce954db9b21a)**
