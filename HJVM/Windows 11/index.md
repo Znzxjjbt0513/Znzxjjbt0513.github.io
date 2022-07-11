@@ -1,4 +1,4 @@
-### Windows 11 - WeTool
+### Windows 11
 #### x64   
 **Published Date:2022/05/15   
 System:Windows 11 Pro   
