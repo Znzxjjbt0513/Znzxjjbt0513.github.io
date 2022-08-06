@@ -26,6 +26,6 @@ Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)**
 #### [**_Windows 11 - WT_**](https://Znzxjjbt0513.github.io/HJVM/WT)   
 ***(NOTICE:Windows 11 = NON WECHAT VERSION HJVM   
 Windows 11 - WX = NEWEST WECHAT VERSION HJVM   
-Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)**   
+Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)***   
 ### ***Published Software***
 #### [**_Software Deleter_**](https://Znzxjjbt0513.github.io/Software%20Deleter)
