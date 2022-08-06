@@ -19,13 +19,13 @@
 #### [**_JIP - WT_**](https://znzxjjbt0513.github.io/JIP/V1/WT/)   
 **(NOTICE:JIP - N = NON WECHAT VERSION JIP   
 JIP - WX = NEWEST WECHAT VERSION JIP   
-JIP - WT = WETOOL + WECHAT VERSION JIP)
+JIP - WT = WETOOL + WECHAT VERSION JIP)**
 ### ***HJVM Packager***
 #### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/N)
 #### [**_Windows 11 - WX_**](https://Znzxjjbt0513.github.io/HJVM/WX)
 #### [**_Windows 11 - WT_**](https://Znzxjjbt0513.github.io/HJVM/WT)   
 **(NOTICE:Windows 11 = NON WECHAT VERSION HJVM   
 Windows 11 - WX = NEWEST WECHAT VERSION HJVM   
-Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)
+Windows 11 - WT = WETOOL + WECHAT VERSION HJVM)**
 ### ***Published Software***
 #### [**_Software Deleter_**](https://Znzxjjbt0513.github.io/Software%20Deleter)
