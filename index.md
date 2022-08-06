@@ -14,12 +14,12 @@
 #### [**_Sonant For iPhone_**](https://Znzxjjbt0513.github.io/Mumble/iPhone/)   
 ### ***Published JIP Packager***
 #### [**_Extra Tools_**](https://Znzxjjbt0513.github.io/Tools/)
-#### [**_Install Packager_**](https://Znzxjjbt0513.github.io/JIP/V1/N/)
-#### [**_Install Packager - WX_**](https://znzxjjbt0513.github.io/JIP/V1/WX/)
-#### [**_Install Packager - WT_**](https://znzxjjbt0513.github.io/JIP/V1/WT/)   
-### (NOTICE:Install Packager = NON WECHAT VERSION Install Packager   
-Install Packager - WX = NEWEST WECHAT VERSION Install Packager   
-Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)
+#### [**_JIP - N_**](https://Znzxjjbt0513.github.io/JIP/V1/N/)
+#### [**_JIP - WX_**](https://znzxjjbt0513.github.io/JIP/V1/WX/)
+#### [**_JIP - WT_**](https://znzxjjbt0513.github.io/JIP/V1/WT/)   
+#### (NOTICE:JIP - N = NON WECHAT VERSION JIP
+#### JIP - WX = NEWEST WECHAT VERSION JIP 
+#### JIP - WT = WETOOL + WECHAT VERSION JIP)
 ### ***Published HJVM Packager***
 #### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/N)
 #### [**_Windows 11 - WX_**](https://Znzxjjbt0513.github.io/HJVM/WX)
