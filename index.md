@@ -17,9 +17,9 @@
 #### [**_Install Packager_**](https://Znzxjjbt0513.github.io/JIP/V1/N/)
 #### [**_Install Packager - WX_**](https://znzxjjbt0513.github.io/JIP/V1/WX/)
 #### [**_Install Packager - WT_**](https://znzxjjbt0513.github.io/JIP/V1/WT/)   
-***(NOTICE:Install Packager = NON WECHAT VERSION Install Packager   
+### (NOTICE:Install Packager = NON WECHAT VERSION Install Packager   
 Install Packager - WX = NEWEST WECHAT VERSION Install Packager   
-Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)**
+Install Packager - WT = WETOOL + WECHAT VERSION Install Packager)
 ### ***Published HJVM Packager***
 #### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/N)
 #### [**_Windows 11 - WX_**](https://Znzxjjbt0513.github.io/HJVM/WX)
