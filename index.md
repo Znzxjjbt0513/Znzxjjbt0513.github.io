@@ -1,13 +1,5 @@
 <!-- title: Jason's Homepage -->
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('jason0513', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Hey! Support Me On Ko-fi!',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Hey! Support Me On Ko-fi!', '#29abe0', 'L4L76FZ0F');kofiwidget2.draw();</script> 
 ### ***VNC Viewer***
 #### [**_VNC Viewer For Windows_**](https://Znzxjjbt0513.github.io/VNC/VNC%20Viewer/Windows/)
 #### [**_VNC Viewer For Macs_**](https://Znzxjjbt0513.github.io/VNC/VNC%20Viewer/Macs/)
