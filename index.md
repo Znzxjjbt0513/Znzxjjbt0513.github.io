@@ -13,7 +13,6 @@
 #### [**_Mumble For Macs_**](https://Znzxjjbt0513.github.io/Mumble/Macs/)
 #### [**_Sonant For iPhone_**](https://Znzxjjbt0513.github.io/Mumble/iPhone/)
 ### ***JIP Packager***
-#### [**_JIP - N_**](https://Znzxjjbt0513.github.io/JIP/V1/N/)
 #### [**_JIP - WX_**](https://znzxjjbt0513.github.io/JIP/V1/WX/)
 #### [**_JIP - WT_**](https://znzxjjbt0513.github.io/JIP/V1/WT/)
 #### [**_Extra Tools_**](https://Znzxjjbt0513.github.io/Tools/)
@@ -21,7 +20,6 @@
 JIP - WX = NEWEST WECHAT VERSION JIP   
 JIP - WT = WETOOL + WECHAT VERSION JIP)**
 ### ***HJVM Packager***
-#### [**_Windows 11_**](https://Znzxjjbt0513.github.io/HJVM/N)
 #### [**_Windows 11 - WX_**](https://Znzxjjbt0513.github.io/HJVM/WX)
 #### [**_Windows 11 - WT_**](https://Znzxjjbt0513.github.io/HJVM/WT)
 **(NOTICE:Windows 11 = NON WECHAT VERSION HJVM   
