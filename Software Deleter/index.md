@@ -19,3 +19,4 @@ Support Light Mode And Dark Mode! From macOS Mojave(10.14) - macOS Monterey(12).
 <img width="452" alt="DMP" src="https://user-images.githubusercontent.com/89672840/144734625-2a74fd99-f912-4079-a5ef-c3e52fb763cc.png">  
 <img width="366" alt="DMM" src="https://user-images.githubusercontent.com/89672840/144734627-c18ec8e3-0604-44e0-804f-f3fbc787d21e.png">  
 <img width="412" alt="DMC" src="https://user-images.githubusercontent.com/89672840/144734629-2a75b336-7e48-4d93-afd0-6b3eb6d0a9cb.png">
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Hey! Support Me On Ko-fi!', '#29abe0', 'L4L76FZ0F');kofiwidget2.draw();</script> 
